@@ -22,5 +22,7 @@ public class Casting01 {
 		int k = 1000;
 		double d = k; // int -> double형으로 자동형변환
 		System.out.println(d); // 실수라서 소수점이 나온다는 점에 유의. 한 줄 삭제 ctrl + d
+		
+		//파일 하나만 변환
 	}
 }
